@@ -10,7 +10,7 @@ class InOutCard extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      height: 82,
+      height: 82,  
       child: Card(
         elevation: 2,
         color: ColorManager.lightBlack,
