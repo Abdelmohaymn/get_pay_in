@@ -6,3 +6,8 @@ A prototype for a fintech compan
 
 <img src="https://raw.githubusercontent.com/Abdelmohaymn/get_pay_in/master/screenshots/1.png" width="250" height="550"/>  <img src="https://raw.githubusercontent.com/Abdelmohaymn/get_pay_in/master/screenshots/2.png" width="250" height="550"/> <img src="https://raw.githubusercontent.com/Abdelmohaymn/get_pay_in/master/screenshots/3.png" width="250" height="550"/>
 <img src="https://raw.githubusercontent.com/Abdelmohaymn/get_pay_in/master/screenshots/4.png" width="250" height="550"/> 
+
+## Project Structure
+
+<img src="https://raw.githubusercontent.com/Abdelmohaymn/get_pay_in/master/screenshots/5.png" width="250" height="550"/> 
+
